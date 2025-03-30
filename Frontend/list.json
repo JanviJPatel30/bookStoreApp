@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "name": "Adventure Chronicles",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Biography",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 2,
+    "name": "Adventure Chronicles",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Poetry",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 3,
+    "name": "Life Lessons",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Biography",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 4,
+    "name": "Science Basics",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 5,
+    "name": "Historical Events",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Educational",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 6,
+    "name": "Science Basics",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Educational",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 7,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 8,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "History",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 9,
+    "name": "Dream Worlds",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 10,
+    "name": "Poetry Anthology",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 11,
+    "name": "Space Odyssey",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "History",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 12,
+    "name": "Classic Novels",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 13,
+    "name": "Dream Worlds",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Biography",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 14,
+    "name": "Poetry Anthology",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "History",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 15,
+    "name": "Mystery Tales",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Poetry",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 16,
+    "name": "Space Odyssey",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Science",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 17,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Science",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 18,
+    "name": "Mystery Tales",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Poetry",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 19,
+    "name": "Dream Worlds",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 20,
+    "name": "Life Lessons",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Science",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 21,
+    "name": "Dream Worlds",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 22,
+    "name": "Poetry Anthology",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 23,
+    "name": "Space Odyssey",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Fantasy",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 24,
+    "name": "Adventure Chronicles",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Science",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 25,
+    "name": "Mystery Tales",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "History",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 26,
+    "name": "Adventure Chronicles",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 27,
+    "name": "Classic Novels",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Non-Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 28,
+    "name": "Poetry Anthology",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 29,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 30,
+    "name": "Life Lessons",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Educational",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 31,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 32,
+    "name": "Classic Novels",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Fantasy",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 33,
+    "name": "Mystery Tales",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Non-Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 34,
+    "name": "Classic Novels",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Biography",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 35,
+    "name": "Dream Worlds",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Non-Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 36,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 37,
+    "name": "Adventure Chronicles",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 38,
+    "name": "Classic Novels",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 39,
+    "name": "Dream Worlds",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 40,
+    "name": "Mystery Tales",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Biography",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 41,
+    "name": "Mystery Tales",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 42,
+    "name": "Space Odyssey",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Biography",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 43,
+    "name": "Space Odyssey",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "History",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 44,
+    "name": "Science Basics",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 45,
+    "name": "Science Basics",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Science",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 46,
+    "name": "Science Basics",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Educational",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 47,
+    "name": "Space Odyssey",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Poetry",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 48,
+    "name": "Adventure Chronicles",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 49,
+    "name": "Mystery Tales",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 50,
+    "name": "Adventure Chronicles",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Fantasy",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 51,
+    "name": "Life Lessons",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "History",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 52,
+    "name": "Science Basics",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Non-Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 53,
+    "name": "Poetry Anthology",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Fantasy",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 54,
+    "name": "Adventure Chronicles",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Non-Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 55,
+    "name": "Science Basics",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Poetry",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 56,
+    "name": "Life Lessons",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "History",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 57,
+    "name": "Science Basics",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Science",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 58,
+    "name": "Historical Events",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 59,
+    "name": "Poetry Anthology",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 60,
+    "name": "Space Odyssey",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 61,
+    "name": "Science Basics",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "History",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 62,
+    "name": "Mystery Tales",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 63,
+    "name": "Science Basics",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "History",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 64,
+    "name": "Historical Events",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Biography",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 65,
+    "name": "Dream Worlds",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "History",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 66,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Biography",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 67,
+    "name": "Life Lessons",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "History",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 68,
+    "name": "Life Lessons",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Non-Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 69,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Educational",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 70,
+    "name": "Dream Worlds",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Biography",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 71,
+    "name": "Life Lessons",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Science",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 72,
+    "name": "Life Lessons",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 73,
+    "name": "Historical Events",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 74,
+    "name": "Space Odyssey",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Fantasy",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 75,
+    "name": "Classic Novels",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Poetry",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 76,
+    "name": "Classic Novels",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Biography",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 77,
+    "name": "Dream Worlds",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "History",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 78,
+    "name": "Poetry Anthology",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 79,
+    "name": "Dream Worlds",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Fantasy",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 80,
+    "name": "Science Basics",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Biography",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 81,
+    "name": "Life Lessons",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 82,
+    "name": "Life Lessons",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 83,
+    "name": "Space Odyssey",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Fantasy",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 84,
+    "name": "Dream Worlds",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 85,
+    "name": "Historical Events",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "History",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 86,
+    "name": "Life Lessons",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Biography",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 87,
+    "name": "Life Lessons",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 88,
+    "name": "Poetry Anthology",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Fantasy",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 89,
+    "name": "Dream Worlds",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 90,
+    "name": "Science Basics",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Fantasy",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 91,
+    "name": "Space Odyssey",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 5,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 92,
+    "name": "Dream Worlds",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "History",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 93,
+    "name": "Classic Novels",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 94,
+    "name": "Space Odyssey",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Non-Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 95,
+    "name": "Poetry Anthology",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 96,
+    "name": "Dream Worlds",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Poetry",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 97,
+    "name": "Science Basics",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 15,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 98,
+    "name": "Science Basics",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 99,
+    "name": "Historical Events",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Biography",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  },
+  {
+    "id": 100,
+    "name": "Science Basics",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": 10,
+    "category": "Fantasy",
+    "image": "https://img.freepik.com/free-photo/books-imagination-still-life_23-2149082162.jpg?ga=GA1.1.830767473.1743332651&semt=ais_hybrid"
+  }
+]
